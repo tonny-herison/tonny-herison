@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Tonny Herison
+- 👋 Hi, I’m Herison Tonny
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web and mobile application development
+- 🌱 I’m a fullstack web developer using React and Laravel.
